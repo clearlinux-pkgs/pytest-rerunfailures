@@ -4,7 +4,7 @@
 #
 Name     : pytest-rerunfailures
 Version  : 4.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/ff/36/8377e8a8520f0beb56ecd629628b1bf2760a06110703b1e3c27e9ded0b01/pytest-rerunfailures-4.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ff/36/8377e8a8520f0beb56ecd629628b1bf2760a06110703b1e3c27e9ded0b01/pytest-rerunfailures-4.2.tar.gz
 Summary  : pytest plugin to re-run tests to eliminate flaky failures
@@ -58,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1538660976
+export SOURCE_DATE_EPOCH=1538661571
 python3 setup.py build
 
 %install
