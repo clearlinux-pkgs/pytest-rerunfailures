@@ -1,6 +1,19 @@
 Changelog
 ---------
 
+5.0 (2018-11-06)
+================
+
+- Drop support for pytest versions < 3.6 to reduce the maintenance burden.
+
+- Add support up to pytest version 3.10. Thus supporting the newest 5 pytest
+  releases.
+
+- Add support for Python 3.7.
+
+- Fix issue can occur when used together with `pytest-flake8`
+  (`#73 <https://github.com/pytest-dev/pytest-rerunfailures/issues/73>`_)
+
 
 4.2 (2018-10-04)
 ================
