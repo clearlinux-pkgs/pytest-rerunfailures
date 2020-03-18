@@ -1,5 +1,5 @@
 PKG_NAME := pytest-rerunfailures
-URL = https://files.pythonhosted.org/packages/a8/12/3879570e273d3fe10bb836aa5417476efe3d1a316690b1c9455c5b922e17/pytest-rerunfailures-8.0.tar.gz
+URL = https://files.pythonhosted.org/packages/c6/2b/5ae05d35e018f60b29e21f18da531d9fdf767a64886b0b879f865135a31e/pytest-rerunfailures-9.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
